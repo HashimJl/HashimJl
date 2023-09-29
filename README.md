@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, im Hashim 👋
 
+<h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/hashim-jalali/" target="blank">
+<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/hashim_j017" target="blank">
+<img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
 
 <!--
 **HashimJl/HashimJl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
