@@ -1,4 +1,4 @@
-### Hi there, im Hashim 👋
+<h1 align="center"> Hi there, im Hashim 👋 </h1>
 
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/hashim-jalali/" target="blank">
