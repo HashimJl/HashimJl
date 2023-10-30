@@ -5,7 +5,7 @@
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/hashim_j017" target="blank">
+<a href="https://www.hackerrank.com/hashim_j" target="blank">
 <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
